@@ -10,6 +10,7 @@ function getRandomInt(max) {
 export default () => {
   const description = reactDescriptions[getRandomInt(2)];
 
+  console.log("Header.jsx executed");
   return (
     <header>
       <img src={img} alt="Stylized atom" />
