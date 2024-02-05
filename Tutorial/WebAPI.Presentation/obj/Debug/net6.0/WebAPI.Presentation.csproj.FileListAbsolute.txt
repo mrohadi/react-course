@@ -1,0 +1,17 @@
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\WebAPI.Presentation.deps.json
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\WebAPI.Presentation.dll
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\WebAPI.Presentation.pdb
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.AssemblyInfoInputs.cache
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.AssemblyInfo.cs
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.dll
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\refint\WebAPI.Presentation.dll
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.pdb
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\ref\WebAPI.Presentation.dll
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\Entities.dll
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\bin\Debug\net6.0\Entities.pdb
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.csproj.AssemblyReference.cache
+C:\Users\muham\Learning\.Net\WebAPI.Presentation\obj\Debug\net6.0\WebAPI.Presentation.csproj.CopyComplete
